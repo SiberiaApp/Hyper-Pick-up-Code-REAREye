@@ -1,0 +1,12 @@
+{
+  "name": "澎湃记-背屏组件",
+  "business_setup": {
+    "id": "Hyper-Pick-up-Code",
+    "renameable": false
+  },
+  "scene_setup": {
+      "scene": "CH:promoted_live_update_channel",
+      "pkg": "com.Badnng.moe"
+    }
+  }
+}
